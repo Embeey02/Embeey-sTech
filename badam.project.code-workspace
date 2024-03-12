@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../badam.project"
+		},
+		{
+			"path": "../Hikers"
+		},
+		{
+			"path": "../gamers"
+		},
+		{
+			"path": "../dashboard"
+		},
+		{
+			"path": "../embeey"
+		},
+		{
+			"path": "../BackgroundGenerator"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
